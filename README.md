@@ -1,0 +1,1 @@
+# 30-to-40-questions-of-typescript
